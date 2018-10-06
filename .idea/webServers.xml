@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0982ee7b-1485-4752-8551-994d01e6ea27" name="repserver.mesaisaati.net" url="http://ftp.bakkaldefteri.net">
+        <fileTransfer host="ftp.bakkaldefteri.net" port="21" rootFolder="/repserver.mesaisaati.net">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
